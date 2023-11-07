@@ -3,9 +3,9 @@
 I'm Thiago Morais, and I've been working in the IT field since 2014. 
 
 I am truly passionate about human development.
-My bigest hability is build bridges correlating people, technology, innovation and processes.
+My  greatest ability is to build bridges correlating people, technology, innovation and processes.
 
-I have worked as a teacher for over five years and am currently involved in sectors that work with data analysis at Belo Horizonte City Hall.
+I have worked as a teacher for over five years and I´m currently involved in sectors that work with data analysis at Belo Horizonte City Hall.
 
 Over time I developed skills in the area of ​​programming with Java, Python, SQL, task automation focusing on better results.
 
