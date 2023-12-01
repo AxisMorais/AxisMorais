@@ -7,7 +7,7 @@ My  greatest ability is to build bridges correlating people, technology, innovat
 
 I have worked as a teacher for over five years and I´m currently involved in sectors that work with data analysis at Belo Horizonte City Hall.
 
-Over time I developed skills related with Java, Python, SQL, crating task automation area focused on better results.
+Over time I developed skills related with Java, Python, SQL, crating task automation focused on better results.
 
 <h2>Get in touch by:</h2>
    <a href="https://www.linkedin.com/in/thiago-conegundes-morais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
