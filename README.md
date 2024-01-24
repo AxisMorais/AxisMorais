@@ -4,7 +4,7 @@ I'm Thiago Morais, and I've been working in the IT field since 2014, now  I'm st
 
 My greatest ability is to build bridges correlating people, technology and innovation process.
 
-I have worked as a teacher for over five years and I´m currently involved in sectors that work with data analysis and programing taks.
+I have worked as a teacher for over five years and I´m currently involved in sectors that work with data analysis and programing tasks.
 
 Main skills: Java, Python, SQL.
 
