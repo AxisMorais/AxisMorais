@@ -1,13 +1,12 @@
 # Hi there 👋
 
-I'm Thiago Morais, and I've been working in the IT field since 2014. 
+I'm Thiago Morais, and I've been working in the IT field since 2014, now  I'm stuying Information System.
 
-I am truly passionate about human development.
-My  greatest ability is to build bridges correlating people, technology, innovation and processes.
+My greatest ability is to build bridges correlating people, technology and innovation process.
 
-I have worked as a teacher for over five years and I´m currently involved in sectors that work with data analysis.
+I have worked as a teacher for over five years and I´m currently involved in sectors that work with data analysis and programing taks.
 
-Over time I developed skills related with Java, Python, SQL, crating task automation focused on better results.
+Main skills: Java, Python, SQL.
 
 <h2>Get in touch by:</h2>
    <a href="https://www.linkedin.com/in/thiago-conegundes-morais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
