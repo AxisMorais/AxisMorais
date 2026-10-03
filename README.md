@@ -1,5 +1,6 @@
 
-Thiago Conegundes Morais
+<h1>Thiago Conegundes Morais</h1>
+<th>
 
 Desenvolvedor de sistemas com a capacidade de conectar pessoas, tecnologia, inovação e processos.
 Nesse momento estou aberto para atuar como Desenvolvedor Junior
