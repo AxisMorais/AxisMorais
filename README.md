@@ -2,13 +2,11 @@
 <h1>Thiago Conegundes Morais</h1>
 <th>
 
-Desenvolvedor de sistemas com a capacidade de conectar pessoas, tecnologia, inovação e processos.  
-Nesse momento estou aberto para atuar como Desenvolvedor Junior
+Desenvolvedor de sistemas com foco na integração entre pessoas, tecnologia e processos, atualmente aberto a oportunidades como Desenvolvedor Júnior.  
 
-Venho trabalhando em aplicações corporativas, contribuindo para melhorias de performance, correção de falhas, desenvolvimento de funcionalidadades, inspeção e correção de cóidgo, integrações entre sistemas com publicação de versões.
+Minha trajetória inclui o desenvolvimento de aplicações corporativas, com foco em melhorias de performance, correção de falhas e entrega de novas funcionalidades. Possuo experiência sólida em code review, integrações entre sistemas e processos de versionamento e publicação.
 
-Criação de interface gráfica e funcionalidades sitemicas atendendo as demandas do cliente.
-Atuação na elaboração de consultas SQL e automações que reduziram tempo de processamento de dados,
+Tenho facilidade para criar interfaces gráficas e funcionalidades sistêmicas alinhadas às necessidades dos clientes, além de atuar na elaboração de consultas SQL avançadas e automações que otimizam o tempo de processamento de dados.
 
 Habilidades Técnicas
 • Linguagens: Java, Python, PHP, SQL, JavaScript;
