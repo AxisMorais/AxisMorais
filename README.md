@@ -17,9 +17,10 @@ thiago.conegundes@gmail.com
 
 <h2> Contatos: </h2>
    <a href="https://www.linkedin.com/in/thiago-conegundes-morais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
   <a href = "thiago.conegundes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
   <p><strong> thiago.conegundes@gmail.com <strong></p>
-<th>
+
 <h2> <a href="https://thiago-lembretes.notion.site/Thiago-C-Morais-3eea69b0768780f395c5f7ca19d3a367">Currículo</a><h2>
 <h2>Technologies</h2>
 
