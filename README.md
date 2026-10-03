@@ -4,9 +4,9 @@
 
 Desenvolvedor de sistemas com foco na integração entre pessoas, tecnologia e processos, atualmente aberto a oportunidades como Desenvolvedor Júnior.  
 
-Minha trajetória inclui o desenvolvimento de aplicações corporativas, com foco em melhorias de performance, correção de falhas e entrega de novas funcionalidades. Possuo experiência sólida em code review, integrações entre sistemas e processos de versionamento e publicação.
+Minha trajetória inclui o desenvolvimento de aplicações corporativas, com foco em melhorias de performance, correção de falhas e entrega de novas funcionalidades. Possuo experiência com revisão de código, integrações entre sistemas, processos de versionamento e publicação.
 
-Tenho facilidade para criar interfaces gráficas e funcionalidades sistêmicas alinhadas às necessidades dos clientes, além de atuar na elaboração de consultas SQL avançadas e automações que otimizam o tempo de processamento de dados.
+Criação de interfaces gráficas e funcionalidades sistêmicas alinhadas às necessidades dos clientes, além de atuar na elaboração de consultas SQL e automações que otimizam o tempo de processamento de dados.
 
 Habilidades Técnicas
 • Linguagens: Java, Python, PHP, SQL, JavaScript;
