@@ -2,7 +2,7 @@
 <h1>Thiago Conegundes Morais</h1>
 <th>
 
-Desenvolvedor de sistemas com a capacidade de conectar pessoas, tecnologia, inovação e processos.
+Desenvolvedor de sistemas com a capacidade de conectar pessoas, tecnologia, inovação e processos.  
 Nesse momento estou aberto para atuar como Desenvolvedor Junior
 
 Venho trabalhando em aplicações corporativas, contribuindo para melhorias de performance, correção de falhas, desenvolvimento de funcionalidadades, inspeção e correção de cóidgo, integrações entre sistemas com publicação de versões.
