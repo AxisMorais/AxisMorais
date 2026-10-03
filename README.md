@@ -15,11 +15,11 @@ Habilidades Técnicas
 • Banco de Dados: Consultas SQL (otimização, extração e modelagem);
 • Idiomas: Inglês avançado (experiência profissional e residência nos EUA);
 
-thiago.conegundes@gmail.com
-
-<h2> Contatos: </h2>
-   <a href="https://www.linkedin.com/in/thiago-conegundes-morais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-<h2> <a href="https://thiago-lembretes.notion.site/Thiago-C-Morais-3eea69b0768780f395c5f7ca19d3a367">Currículo</a><h2>
-
-
+<th>
+<h2> Contatos: </h2>  
+<p><a href="https://www.linkedin.com/in/thiago-conegundes-morais/" target="_blank"> 
+   • LinkedIn 
+</a></p>
+</th>       
+<p> • Email: thiago.conegundes@gmail.com</p>   
+<a href="https://thiago-lembretes.notion.site/Thiago-C-Morais-3eea69b0768780f395c5f7ca19d3a367"> • Currículo</a>
