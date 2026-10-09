@@ -9,11 +9,11 @@ Minha trajetória inclui o desenvolvimento de aplicações corporativas, com foc
 Criação de interfaces gráficas e funcionalidades sistêmicas alinhadas às necessidades dos clientes, além de atuar na elaboração de consultas SQL e automações que otimizam o tempo de processamento de dados.
 
 Habilidades Técnicas
-• Linguagens: Java, Python, PHP, SQL, JavaScript;
-• Automação & Dados: Selenium, Pandas, Beautiful Soup, Scrapy, Scikit-learn, Matplotlib, Seaborn;
-• Frameworks: Hibernate, Angular, Spring Boot, React, Flask;
-• Banco de Dados: Consultas SQL (otimização, extração e modelagem);
-• Idiomas: Inglês avançado (experiência profissional e residência nos EUA);
+• Linguagens: Java, Python, PHP, SQL, JavaScript;  
+• Automação & Dados: Selenium, Pandas, Beautiful Soup, Scrapy, Scikit-learn, Matplotlib, Seaborn;  
+• Frameworks: Hibernate, Angular, Spring Boot, React, Flask;  
+• Banco de Dados: Consultas SQL (otimização, extração e modelagem);  
+• Idiomas: Inglês avançado (experiência profissional e residência nos EUA);  
 
 <th>
 <h2> Contatos: </h2>  
