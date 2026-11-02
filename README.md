@@ -2,7 +2,7 @@
 <h1>Thiago Conegundes Morais</h1>
 <th>
 
-Desenvolvedor de sistemas com foco na integração entre pessoas, tecnologia e processos, atualmente aberto a oportunidades como Desenvolvedor Júnior.  
+Desenvolvedor de sistemas com foco na integração entre pessoas, tecnologia e processos, atualmente buscando oportunidades como Desenvolvedor Júnior.  
 
 Minha trajetória inclui o desenvolvimento de aplicações corporativas, com foco em melhorias de performance, correção de falhas e entrega de novas funcionalidades. Possuo experiência com revisão de código, integrações entre sistemas, processos de versionamento e publicação.
 
